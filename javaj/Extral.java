@@ -1,3 +1,4 @@
+package javaj;
 public class Extral {
     public static void main(String[] args){
         int testscore = 76;
