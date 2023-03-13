@@ -1,6 +1,8 @@
-#include<iostream>
+#include<algorithm>
+#include <iostream>
 using namespace std;
-int main(){
-    int a=1;
-    printf("helloworld");
+int main()
+{
+    
+    cout << "Hello World";
 }
