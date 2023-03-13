@@ -1,6 +1,6 @@
 package javaj;
 
-public class list {
+public class showcase {
     public static void main(String[] args) {
         int[] array = new int[500];
         for (int i = 0; i < array.length; i++) {
@@ -21,11 +21,6 @@ public class list {
             if (element != 0) {
                 System.out.printf("%d ", element);
             }
-        }
-    }
-
-    public static void collect() {
-        int[] array = new int[500];
-        
+        }  
     }
 }
