@@ -1,8 +1,7 @@
-#include<algorithm>
+#include <algorithm>
 #include <iostream>
 using namespace std;
 int main()
 {
-    
-    cout << "Hello World";
+    cout << "Hello World\n";
 }
